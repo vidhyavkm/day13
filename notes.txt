@@ -1,0 +1,27 @@
+what is responsive web design?=> it should be responsive for all kind of devices.
+why it is used? for user convenient.
+what is the thing we used for RWD? we use bootstrap.(media queries)
+
+what is bootstrap? it will consume less time.
+when we using bootstrap, codes are inbuilt.
+we should link a bootstarp cdn link.
+we can use any version
+no horizontal scroll bootstarp and it is auto adjust.
+organized presentation.
+design,color, animations,images,content quality.
+fit to any screen.
+
+if we use bootstarpwe no need to write css again and again.
+
+two methods to use bootstrap:
+
+1. copy cdn link=> easy
+2. download files.
+
+grid=> container=> rows=> rows can be used mulitiple times=> columns=> only 
+12?
+6/6
+4/4/4
+3/3/3
+2/2/2/2/2/2
+12*1
